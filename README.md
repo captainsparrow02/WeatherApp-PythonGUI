@@ -26,6 +26,6 @@ Run the following command in the `WeatherApp-PythonGUI` folder to start the appl
 python3 weatherApp.py
 ```
 
-The following window appears on your screen.<br/>![weatherApp](https://files.catbox.moe/ohvfy4.JPG)
+The following window appears on your screen.<br/><br/>![weatherApp](https://files.catbox.moe/ohvfy4.JPG)
 
 Enter the zip code and country code of the location for which you would like to know the weather in the application.
